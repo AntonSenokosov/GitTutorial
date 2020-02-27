@@ -13,6 +13,8 @@ int main()
 	cout << "HHH";
 
 	system("pause");
+
+	cout << "PPPfff";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
